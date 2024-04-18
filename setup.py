@@ -7,7 +7,7 @@ setuptools.setup(
     author = 'leeseunghun',
     url= 'https://github.com/Lsh0402/leeUnit_c.git',
     download_url = 'https://github.com/Lsh0402/leeUnit_c.git',
-    packages= ['leeUnit_c'],
+    packages= ['Unit_c'],
     classifiers =[
         "Programming Language :: Python :: 3",
     ]   
