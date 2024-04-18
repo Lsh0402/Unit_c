@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name = 'Unit_c',
+    name = 'leeUnit_c',
     version = '0.0.1',
     description = 'Converts many different units',
     author = 'leeseunghun',
