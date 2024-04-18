@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Unit_c
+Version: 0.0.1
+Summary: Converts many different units
+Home-page: https://github.com/Lsh0402/leepackage.git
+Download-URL: https://github.com/Lsh0402/leepackage.git
+Author: leeseunghun
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
