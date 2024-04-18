@@ -1,8 +1,16 @@
 # Unit_c
 ## This is a package that converts units.
 
-<<<<<<< HEAD
 You can change the units of speed, length, and temperature.
-=======
-You can change the units of speed, length, and temperature.
->>>>>>> 4f9b8aa030bb9e1327e8b1a0bb24da11eb0bc399
+
+## 1. Unit_c.len
+
+include def kilometer_mile, mile_kilometer, ...., yard_meter
+
+## 2. Unit_c.speed
+
+include def kph_mph, mph_kph, ...., mph_mps
+
+## 3. Unit_c.tem
+
+include def celsius_fahrenheit, fahrenheit_celsius, ...., kelvin_fahrenheit
